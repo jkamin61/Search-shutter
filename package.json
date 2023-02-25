@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-hw-11",
+  "name": "search-shutter",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://jkamin61.github.io/goit-js-hw-11/",
+  "homepage": "https://jkamin61.github.io/Search-shutter/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /Search-shutter/"
   },
   "repository": {
     "type": "git",
